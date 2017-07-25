@@ -1,0 +1,41 @@
+Mono path[0] = 'C:/Users/neon/Documents/GitHub/spacegame/jeff_Data/Managed'
+Mono config path = 'C:/Users/neon/Documents/GitHub/spacegame/jeff_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/neon/Documents/GitHub/spacegame/jeff_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55226
+Multi-casting "[IP] 172.30.2.187 [Port] 55226 [Flags] 2 [Guid] 3061498652 [EditorId] 4094794939 [Version] 1048832 [Id] WindowsPlayer(LAPTOP-KG23AUO3) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55226]
+PlayerConnection already initialized - listening to [0.0.0.0:55226]
+Player data archive not found at `C:/Users/neon/Documents/GitHub/spacegame/jeff_Data/data.unity3d`, using local filesystem
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 5500 (ID=0x1616)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   20.19.15.4531
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\neon\Documents\GitHub\spacegame\jeff_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\neon\Documents\GitHub\spacegame\jeff_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\neon\Documents\GitHub\spacegame\jeff_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\neon\Documents\GitHub\spacegame\jeff_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\neon\Documents\GitHub\spacegame\jeff_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\neon\Documents\GitHub\spacegame\jeff_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\neon\Documents\GitHub\spacegame\jeff_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\neon\Documents\GitHub\spacegame\jeff_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\neon\Documents\GitHub\spacegame\jeff_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\neon\Documents\GitHub\spacegame\jeff_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\neon\Documents\GitHub\spacegame\jeff_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\neon\Documents\GitHub\spacegame\jeff_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\neon\Documents\GitHub\spacegame\jeff_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\neon\Documents\GitHub\spacegame\jeff_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\neon\Documents\GitHub\spacegame\jeff_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\neon\Documents\GitHub\spacegame\jeff_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  2.192 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 4.559876 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3370 -> priority: 1 
+  Thread -> id: 2a50 -> priority: 1 
