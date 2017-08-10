@@ -1,0 +1,2886 @@
+Mono path[0] = 'C:/Users/neon/Documents/GitHub/AstroDuel/AstroDuel_v0.3_Data/Managed'
+Mono config path = 'C:/Users/neon/Documents/GitHub/AstroDuel/AstroDuel_v0.3_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/neon/Documents/GitHub/AstroDuel/AstroDuel_v0.3_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55224
+Multi-casting "[IP] 172.30.15.97 [Port] 55224 [Flags] 2 [Guid] 2621321256 [EditorId] 343495609 [Version] 1048832 [Id] WindowsPlayer(LAPTOP-KG23AUO3) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55224]
+PlayerConnection already initialized - listening to [0.0.0.0:55224]
+Player data archive not found at `C:/Users/neon/Documents/GitHub/AstroDuel/AstroDuel_v0.3_Data/data.unity3d`, using local filesystem
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 5500 (ID=0x1616)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   20.19.15.4531
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\neon\Documents\GitHub\AstroDuel\AstroDuel_v0.3_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\neon\Documents\GitHub\AstroDuel\AstroDuel_v0.3_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\neon\Documents\GitHub\AstroDuel\AstroDuel_v0.3_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\neon\Documents\GitHub\AstroDuel\AstroDuel_v0.3_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\neon\Documents\GitHub\AstroDuel\AstroDuel_v0.3_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\neon\Documents\GitHub\AstroDuel\AstroDuel_v0.3_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\neon\Documents\GitHub\AstroDuel\AstroDuel_v0.3_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\neon\Documents\GitHub\AstroDuel\AstroDuel_v0.3_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\neon\Documents\GitHub\AstroDuel\AstroDuel_v0.3_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\neon\Documents\GitHub\AstroDuel\AstroDuel_v0.3_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\neon\Documents\GitHub\AstroDuel\AstroDuel_v0.3_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\neon\Documents\GitHub\AstroDuel\AstroDuel_v0.3_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\neon\Documents\GitHub\AstroDuel\AstroDuel_v0.3_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\neon\Documents\GitHub\AstroDuel\AstroDuel_v0.3_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.565 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.138825 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1c1c -> priority: 1 
+  Thread -> id: f60 -> priority: 1 
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.139822 ms
+System memory in use before: 67.0 MB.
+System memory in use after: 64.4 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 527.
+Total: 0.881744 ms (FindLiveObjects: 0.045253 ms CreateObjectMapping: 0.037322 ms MarkObjects: 0.378357 ms  DeleteObjects: 0.418945 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 18.594088 ms
+System memory in use before: 70.0 MB.
+System memory in use after: 67.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 568.
+Total: 4.972761 ms (FindLiveObjects: 0.315375 ms CreateObjectMapping: 0.172616 ms MarkObjects: 3.432273 ms  DeleteObjects: 1.046897 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.649433 ms
+System memory in use before: 67.4 MB.
+System memory in use after: 67.4 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 568.
+Total: 1.425254 ms (FindLiveObjects: 0.178215 ms CreateObjectMapping: 0.074178 ms MarkObjects: 1.157931 ms  DeleteObjects: 0.010730 ms)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+sceneChanger:switchScene(String) (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\sceneChanger.cs:56)
+UnityEngine.Events.InvokableCall`1:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:189)
+UnityEngine.Events.CachedInvokableCall`1:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:309)
+UnityEngine.Events.InvokableCallList:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:637)
+UnityEngine.Events.UnityEventBase:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:773)
+UnityEngine.Events.UnityEvent:Invoke() (at C:\buildslave\unity\build\Runtime\Export\UnityEvent_0.cs:52)
+UnityEngine.UI.Button:Press() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\UI\Core\Button.cs:36)
+UnityEngine.UI.Button:OnSubmit(BaseEventData) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\UI\Core\Button.cs:50)
+UnityEngine.EventSystems.ExecuteEvents:Execute(ISubmitHandler, BaseEventData) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\ExecuteEvents.cs:127)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\ExecuteEvents.cs:261)
+UnityEngine.EventSystems.StandaloneInputModule:SendSubmitEventToSelectedObject() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:351)
+UnityEngine.EventSystems.StandaloneInputModule:Process() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:207)
+UnityEngine.EventSystems.EventSystem:Update() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\EventSystem.cs:285)
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/sceneChanger.cs Line: 56)
+
+0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+sceneChanger:switchScene(String) (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\sceneChanger.cs:57)
+UnityEngine.Events.InvokableCall`1:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:189)
+UnityEngine.Events.CachedInvokableCall`1:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:309)
+UnityEngine.Events.InvokableCallList:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:637)
+UnityEngine.Events.UnityEventBase:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:773)
+UnityEngine.Events.UnityEvent:Invoke() (at C:\buildslave\unity\build\Runtime\Export\UnityEvent_0.cs:52)
+UnityEngine.UI.Button:Press() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\UI\Core\Button.cs:36)
+UnityEngine.UI.Button:OnSubmit(BaseEventData) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\UI\Core\Button.cs:50)
+UnityEngine.EventSystems.ExecuteEvents:Execute(ISubmitHandler, BaseEventData) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\ExecuteEvents.cs:127)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\ExecuteEvents.cs:261)
+UnityEngine.EventSystems.StandaloneInputModule:SendSubmitEventToSelectedObject() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:351)
+UnityEngine.EventSystems.StandaloneInputModule:Process() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:207)
+UnityEngine.EventSystems.EventSystem:Update() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\EventSystem.cs:285)
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/sceneChanger.cs Line: 57)
+
+test
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+sceneChanger:switchScene(String) (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\sceneChanger.cs:58)
+UnityEngine.Events.InvokableCall`1:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:189)
+UnityEngine.Events.CachedInvokableCall`1:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:309)
+UnityEngine.Events.InvokableCallList:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:637)
+UnityEngine.Events.UnityEventBase:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:773)
+UnityEngine.Events.UnityEvent:Invoke() (at C:\buildslave\unity\build\Runtime\Export\UnityEvent_0.cs:52)
+UnityEngine.UI.Button:Press() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\UI\Core\Button.cs:36)
+UnityEngine.UI.Button:OnSubmit(BaseEventData) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\UI\Core\Button.cs:50)
+UnityEngine.EventSystems.ExecuteEvents:Execute(ISubmitHandler, BaseEventData) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\ExecuteEvents.cs:127)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\ExecuteEvents.cs:261)
+UnityEngine.EventSystems.StandaloneInputModule:SendSubmitEventToSelectedObject() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:351)
+UnityEngine.EventSystems.StandaloneInputModule:Process() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:207)
+UnityEngine.EventSystems.EventSystem:Update() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\EventSystem.cs:285)
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/sceneChanger.cs Line: 58)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.850020 ms
+Incamp
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+spawnFabs:Awake() (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\spawnFabs.cs:29)
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/spawnFabs.cs Line: 29)
+
+Assign p1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+spawnFabs:spawnP1() (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\spawnFabs.cs:144)
+spawnFabs:Awake() (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\spawnFabs.cs:35)
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/spawnFabs.cs Line: 144)
+
+System memory in use before: 107.2 MB.
+System memory in use after: 76.0 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 826.
+Total: 3.763977 ms (FindLiveObjects: 0.085841 ms CreateObjectMapping: 0.061582 ms MarkObjects: 0.675537 ms  DeleteObjects: 2.938683 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x00322] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:170 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 170)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x00322] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:170 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 170)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x00322] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:170 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 170)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x00322] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:170 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 170)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x00322] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:170 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 170)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x00322] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:170 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 170)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x00322] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:170 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 170)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x00322] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:170 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 170)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x00322] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:170 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 170)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x00322] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:170 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 170)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x00322] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:170 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 170)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.994645 ms
+System memory in use before: 95.7 MB.
+System memory in use after: 56.2 MB.
+
+Unloading 132 unused Assets to reduce memory usage. Loaded Objects now: 559.
+Total: 6.283715 ms (FindLiveObjects: 0.074178 ms CreateObjectMapping: 0.087241 ms MarkObjects: 0.539777 ms  DeleteObjects: 5.581118 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.803834 ms
+System memory in use before: 84.9 MB.
+System memory in use after: 67.9 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 650.
+Total: 2.580853 ms (FindLiveObjects: 0.046653 ms CreateObjectMapping: 0.045720 ms MarkObjects: 0.586896 ms  DeleteObjects: 1.900183 ms)
+
+2
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+sceneChanger:switchScene(String) (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\sceneChanger.cs:56)
+UnityEngine.Events.InvokableCall`1:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:189)
+UnityEngine.Events.CachedInvokableCall`1:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:309)
+UnityEngine.Events.InvokableCallList:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:637)
+UnityEngine.Events.UnityEventBase:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:773)
+UnityEngine.Events.UnityEvent:Invoke() (at C:\buildslave\unity\build\Runtime\Export\UnityEvent_0.cs:52)
+UnityEngine.UI.Button:Press() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\UI\Core\Button.cs:36)
+UnityEngine.UI.Button:OnSubmit(BaseEventData) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\UI\Core\Button.cs:50)
+UnityEngine.EventSystems.ExecuteEvents:Execute(ISubmitHandler, BaseEventData) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\ExecuteEvents.cs:127)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\ExecuteEvents.cs:261)
+UnityEngine.EventSystems.StandaloneInputModule:SendSubmitEventToSelectedObject() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:351)
+UnityEngine.EventSystems.StandaloneInputModule:Process() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:207)
+UnityEngine.EventSystems.EventSystem:Update() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\EventSystem.cs:285)
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/sceneChanger.cs Line: 56)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+sceneChanger:switchScene(String) (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\sceneChanger.cs:57)
+UnityEngine.Events.InvokableCall`1:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:189)
+UnityEngine.Events.CachedInvokableCall`1:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:309)
+UnityEngine.Events.InvokableCallList:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:637)
+UnityEngine.Events.UnityEventBase:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:773)
+UnityEngine.Events.UnityEvent:Invoke() (at C:\buildslave\unity\build\Runtime\Export\UnityEvent_0.cs:52)
+UnityEngine.UI.Button:Press() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\UI\Core\Button.cs:36)
+UnityEngine.UI.Button:OnSubmit(BaseEventData) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\UI\Core\Button.cs:50)
+UnityEngine.EventSystems.ExecuteEvents:Execute(ISubmitHandler, BaseEventData) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\ExecuteEvents.cs:127)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\ExecuteEvents.cs:261)
+UnityEngine.EventSystems.StandaloneInputModule:SendSubmitEventToSelectedObject() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:351)
+UnityEngine.EventSystems.StandaloneInputModule:Process() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:207)
+UnityEngine.EventSystems.EventSystem:Update() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\EventSystem.cs:285)
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/sceneChanger.cs Line: 57)
+
+test
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+sceneChanger:switchScene(String) (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\sceneChanger.cs:58)
+UnityEngine.Events.InvokableCall`1:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:189)
+UnityEngine.Events.CachedInvokableCall`1:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:309)
+UnityEngine.Events.InvokableCallList:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:637)
+UnityEngine.Events.UnityEventBase:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:773)
+UnityEngine.Events.UnityEvent:Invoke() (at C:\buildslave\unity\build\Runtime\Export\UnityEvent_0.cs:52)
+UnityEngine.UI.Button:Press() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\UI\Core\Button.cs:36)
+UnityEngine.UI.Button:OnSubmit(BaseEventData) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\UI\Core\Button.cs:50)
+UnityEngine.EventSystems.ExecuteEvents:Execute(ISubmitHandler, BaseEventData) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\ExecuteEvents.cs:127)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\ExecuteEvents.cs:261)
+UnityEngine.EventSystems.StandaloneInputModule:SendSubmitEventToSelectedObject() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:351)
+UnityEngine.EventSystems.StandaloneInputModule:Process() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:207)
+UnityEngine.EventSystems.EventSystem:Update() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\EventSystem.cs:285)
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/sceneChanger.cs Line: 58)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.825761 ms
+Incamp
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+spawnFabs:Awake() (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\spawnFabs.cs:29)
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/spawnFabs.cs Line: 29)
+
+Assign p1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+spawnFabs:spawnP1() (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\spawnFabs.cs:144)
+spawnFabs:Awake() (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\spawnFabs.cs:35)
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/spawnFabs.cs Line: 144)
+
+System memory in use before: 107.7 MB.
+System memory in use after: 76.5 MB.
+
+Unloading 82 unused Assets to reduce memory usage. Loaded Objects now: 829.
+Total: 4.128805 ms (FindLiveObjects: 0.062048 ms CreateObjectMapping: 0.059716 ms MarkObjects: 0.719858 ms  DeleteObjects: 3.285782 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at spawnFabs.Start () [0x0029f] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\spawnFabs.cs:89 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/spawnFabs.cs Line: 89)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bulletHitDetect.Start () [0x0005e] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\bulletHitDetect.cs:38 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/bulletHitDetect.cs Line: 38)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bulletHitDetect.Start () [0x0005e] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\bulletHitDetect.cs:38 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/bulletHitDetect.cs Line: 38)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bulletHitDetect.Start () [0x0005e] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\bulletHitDetect.cs:38 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/bulletHitDetect.cs Line: 38)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bulletHitDetect.Start () [0x0005e] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\bulletHitDetect.cs:38 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/bulletHitDetect.cs Line: 38)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bulletHitDetect.Start () [0x0005e] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\bulletHitDetect.cs:38 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/bulletHitDetect.cs Line: 38)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bulletHitDetect.Start () [0x0005e] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\bulletHitDetect.cs:38 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/bulletHitDetect.cs Line: 38)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bulletHitDetect.Start () [0x0005e] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\bulletHitDetect.cs:38 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/bulletHitDetect.cs Line: 38)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bulletHitDetect.Start () [0x0005e] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\bulletHitDetect.cs:38 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/bulletHitDetect.cs Line: 38)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x001c5] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:131 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 131)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.683002 ms
+System memory in use before: 107.3 MB.
+System memory in use after: 67.8 MB.
+
+Unloading 80 unused Assets to reduce memory usage. Loaded Objects now: 686.
+Total: 5.288136 ms (FindLiveObjects: 0.064381 ms CreateObjectMapping: 0.059249 ms MarkObjects: 0.455801 ms  DeleteObjects: 4.707305 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.080953 ms
+System memory in use before: 70.3 MB.
+System memory in use after: 67.8 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 611.
+Total: 2.676025 ms (FindLiveObjects: 0.143691 ms CreateObjectMapping: 0.134827 ms MarkObjects: 1.713104 ms  DeleteObjects: 0.682535 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.159575 ms
+System memory in use before: 71.7 MB.
+System memory in use after: 69.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 650.
+Total: 4.417122 ms (FindLiveObjects: 0.254726 ms CreateObjectMapping: 0.092839 ms MarkObjects: 3.821827 ms  DeleteObjects: 0.241663 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.520204 ms
+System memory in use before: 69.1 MB.
+System memory in use after: 69.1 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 650.
+Total: 1.677181 ms (FindLiveObjects: 0.280852 ms CreateObjectMapping: 0.161419 ms MarkObjects: 1.220913 ms  DeleteObjects: 0.009330 ms)
+
+2
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+sceneChanger:switchScene(String) (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\sceneChanger.cs:56)
+UnityEngine.Events.InvokableCall`1:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:189)
+UnityEngine.Events.CachedInvokableCall`1:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:309)
+UnityEngine.Events.InvokableCallList:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:637)
+UnityEngine.Events.UnityEventBase:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:773)
+UnityEngine.Events.UnityEvent:Invoke() (at C:\buildslave\unity\build\Runtime\Export\UnityEvent_0.cs:52)
+UnityEngine.UI.Button:Press() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\UI\Core\Button.cs:36)
+UnityEngine.UI.Button:OnSubmit(BaseEventData) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\UI\Core\Button.cs:50)
+UnityEngine.EventSystems.ExecuteEvents:Execute(ISubmitHandler, BaseEventData) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\ExecuteEvents.cs:127)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\ExecuteEvents.cs:261)
+UnityEngine.EventSystems.StandaloneInputModule:SendSubmitEventToSelectedObject() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:351)
+UnityEngine.EventSystems.StandaloneInputModule:Process() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:207)
+UnityEngine.EventSystems.EventSystem:Update() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\EventSystem.cs:285)
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/sceneChanger.cs Line: 56)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+sceneChanger:switchScene(String) (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\sceneChanger.cs:57)
+UnityEngine.Events.InvokableCall`1:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:189)
+UnityEngine.Events.CachedInvokableCall`1:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:309)
+UnityEngine.Events.InvokableCallList:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:637)
+UnityEngine.Events.UnityEventBase:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:773)
+UnityEngine.Events.UnityEvent:Invoke() (at C:\buildslave\unity\build\Runtime\Export\UnityEvent_0.cs:52)
+UnityEngine.UI.Button:Press() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\UI\Core\Button.cs:36)
+UnityEngine.UI.Button:OnSubmit(BaseEventData) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\UI\Core\Button.cs:50)
+UnityEngine.EventSystems.ExecuteEvents:Execute(ISubmitHandler, BaseEventData) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\ExecuteEvents.cs:127)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\ExecuteEvents.cs:261)
+UnityEngine.EventSystems.StandaloneInputModule:SendSubmitEventToSelectedObject() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:351)
+UnityEngine.EventSystems.StandaloneInputModule:Process() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:207)
+UnityEngine.EventSystems.EventSystem:Update() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\EventSystem.cs:285)
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/sceneChanger.cs Line: 57)
+
+test
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+sceneChanger:switchScene(String) (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\sceneChanger.cs:58)
+UnityEngine.Events.InvokableCall`1:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:189)
+UnityEngine.Events.CachedInvokableCall`1:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:309)
+UnityEngine.Events.InvokableCallList:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:637)
+UnityEngine.Events.UnityEventBase:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:773)
+UnityEngine.Events.UnityEvent:Invoke() (at C:\buildslave\unity\build\Runtime\Export\UnityEvent_0.cs:52)
+UnityEngine.UI.Button:Press() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\UI\Core\Button.cs:36)
+UnityEngine.UI.Button:OnSubmit(BaseEventData) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\UI\Core\Button.cs:50)
+UnityEngine.EventSystems.ExecuteEvents:Execute(ISubmitHandler, BaseEventData) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\ExecuteEvents.cs:127)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\ExecuteEvents.cs:261)
+UnityEngine.EventSystems.StandaloneInputModule:SendSubmitEventToSelectedObject() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:351)
+UnityEngine.EventSystems.StandaloneInputModule:Process() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:207)
+UnityEngine.EventSystems.EventSystem:Update() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\EventSystem.cs:285)
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/sceneChanger.cs Line: 58)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.883611 ms
+Incamp
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+spawnFabs:Awake() (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\spawnFabs.cs:29)
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/spawnFabs.cs Line: 29)
+
+Assign p1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+spawnFabs:spawnP1() (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\spawnFabs.cs:144)
+spawnFabs:Awake() (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\spawnFabs.cs:35)
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/spawnFabs.cs Line: 144)
+
+System memory in use before: 109.0 MB.
+System memory in use after: 77.8 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 830.
+Total: 3.915134 ms (FindLiveObjects: 0.054584 ms CreateObjectMapping: 0.039655 ms MarkObjects: 0.697931 ms  DeleteObjects: 3.122030 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at playerMovement.AI () [0x00021] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\playerMovement.cs:323 
+  at playerMovement.FixedUpdate () [0x00153] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\playerMovement.cs:98 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/playerMovement.cs Line: 323)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at playerMovement.AI () [0x00021] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\playerMovement.cs:323 
+  at playerMovement.FixedUpdate () [0x00153] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\playerMovement.cs:98 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/playerMovement.cs Line: 323)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at playerMovement.AI () [0x00021] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\playerMovement.cs:323 
+  at playerMovement.FixedUpdate () [0x00153] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\playerMovement.cs:98 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/playerMovement.cs Line: 323)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at playerMovement.AI () [0x00021] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\playerMovement.cs:323 
+  at playerMovement.FixedUpdate () [0x00153] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\playerMovement.cs:98 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/playerMovement.cs Line: 323)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at playerMovement.AI () [0x00021] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\playerMovement.cs:323 
+  at playerMovement.FixedUpdate () [0x00153] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\playerMovement.cs:98 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/playerMovement.cs Line: 323)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at playerMovement.AI () [0x00021] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\playerMovement.cs:323 
+  at playerMovement.FixedUpdate () [0x00153] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\playerMovement.cs:98 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/playerMovement.cs Line: 323)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at playerMovement.AI () [0x00021] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\playerMovement.cs:323 
+  at playerMovement.FixedUpdate () [0x00153] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\playerMovement.cs:98 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/playerMovement.cs Line: 323)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at playerMovement.AI () [0x00021] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\playerMovement.cs:323 
+  at playerMovement.FixedUpdate () [0x00153] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\playerMovement.cs:98 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/playerMovement.cs Line: 323)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at playerMovement.AI () [0x00021] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\playerMovement.cs:323 
+  at playerMovement.FixedUpdate () [0x00153] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\playerMovement.cs:98 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/playerMovement.cs Line: 323)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at playerMovement.AI () [0x00021] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\playerMovement.cs:323 
+  at playerMovement.FixedUpdate () [0x00153] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\playerMovement.cs:98 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/playerMovement.cs Line: 323)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at playerMovement.AI () [0x00021] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\playerMovement.cs:323 
+  at playerMovement.FixedUpdate () [0x00153] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\playerMovement.cs:98 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/playerMovement.cs Line: 323)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at playerMovement.AI () [0x00021] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\playerMovement.cs:323 
+  at playerMovement.FixedUpdate () [0x00153] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\playerMovement.cs:98 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/playerMovement.cs Line: 323)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at playerMovement.AI () [0x00021] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\playerMovement.cs:323 
+  at playerMovement.FixedUpdate () [0x00153] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\playerMovement.cs:98 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/playerMovement.cs Line: 323)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at playerMovement.AI () [0x00021] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\playerMovement.cs:323 
+  at playerMovement.FixedUpdate () [0x00153] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\playerMovement.cs:98 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/playerMovement.cs Line: 323)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at playerMovement.AI () [0x00021] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\playerMovement.cs:323 
+  at playerMovement.FixedUpdate () [0x00153] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\playerMovement.cs:98 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/playerMovement.cs Line: 323)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at playerMovement.AI () [0x00021] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\playerMovement.cs:323 
+  at playerMovement.FixedUpdate () [0x00153] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\playerMovement.cs:98 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/playerMovement.cs Line: 323)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at playerMovement.AI () [0x00021] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\playerMovement.cs:323 
+  at playerMovement.FixedUpdate () [0x00153] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\playerMovement.cs:98 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/playerMovement.cs Line: 323)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at playerMovement.AI () [0x00021] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\playerMovement.cs:323 
+  at playerMovement.FixedUpdate () [0x00153] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\playerMovement.cs:98 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/playerMovement.cs Line: 323)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at playerMovement.AI () [0x00021] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\playerMovement.cs:323 
+  at playerMovement.FixedUpdate () [0x00153] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\playerMovement.cs:98 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/playerMovement.cs Line: 323)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at playerMovement.AI () [0x00021] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\playerMovement.cs:323 
+  at playerMovement.FixedUpdate () [0x00153] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\playerMovement.cs:98 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/playerMovement.cs Line: 323)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at playerMovement.AI () [0x00021] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\playerMovement.cs:323 
+  at playerMovement.FixedUpdate () [0x00153] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\playerMovement.cs:98 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/playerMovement.cs Line: 323)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.992779 ms
+System memory in use before: 97.1 MB.
+System memory in use after: 57.6 MB.
+
+Unloading 132 unused Assets to reduce memory usage. Loaded Objects now: 559.
+Total: 6.335500 ms (FindLiveObjects: 0.069513 ms CreateObjectMapping: 0.092839 ms MarkObjects: 0.919067 ms  DeleteObjects: 5.252680 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.501988 ms
+System memory in use before: 86.2 MB.
+System memory in use after: 69.2 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 650.
+Total: 2.591583 ms (FindLiveObjects: 0.046186 ms CreateObjectMapping: 0.048985 ms MarkObjects: 0.579898 ms  DeleteObjects: 1.916045 ms)
+
+2
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+sceneChanger:switchScene(String) (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\sceneChanger.cs:56)
+UnityEngine.Events.InvokableCall`1:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:189)
+UnityEngine.Events.CachedInvokableCall`1:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:309)
+UnityEngine.Events.InvokableCallList:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:637)
+UnityEngine.Events.UnityEventBase:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:773)
+UnityEngine.Events.UnityEvent:Invoke() (at C:\buildslave\unity\build\Runtime\Export\UnityEvent_0.cs:52)
+UnityEngine.UI.Button:Press() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\UI\Core\Button.cs:36)
+UnityEngine.UI.Button:OnSubmit(BaseEventData) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\UI\Core\Button.cs:50)
+UnityEngine.EventSystems.ExecuteEvents:Execute(ISubmitHandler, BaseEventData) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\ExecuteEvents.cs:127)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\ExecuteEvents.cs:261)
+UnityEngine.EventSystems.StandaloneInputModule:SendSubmitEventToSelectedObject() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:351)
+UnityEngine.EventSystems.StandaloneInputModule:Process() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:207)
+UnityEngine.EventSystems.EventSystem:Update() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\EventSystem.cs:285)
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/sceneChanger.cs Line: 56)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+sceneChanger:switchScene(String) (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\sceneChanger.cs:57)
+UnityEngine.Events.InvokableCall`1:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:189)
+UnityEngine.Events.CachedInvokableCall`1:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:309)
+UnityEngine.Events.InvokableCallList:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:637)
+UnityEngine.Events.UnityEventBase:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:773)
+UnityEngine.Events.UnityEvent:Invoke() (at C:\buildslave\unity\build\Runtime\Export\UnityEvent_0.cs:52)
+UnityEngine.UI.Button:Press() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\UI\Core\Button.cs:36)
+UnityEngine.UI.Button:OnSubmit(BaseEventData) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\UI\Core\Button.cs:50)
+UnityEngine.EventSystems.ExecuteEvents:Execute(ISubmitHandler, BaseEventData) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\ExecuteEvents.cs:127)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\ExecuteEvents.cs:261)
+UnityEngine.EventSystems.StandaloneInputModule:SendSubmitEventToSelectedObject() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:351)
+UnityEngine.EventSystems.StandaloneInputModule:Process() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:207)
+UnityEngine.EventSystems.EventSystem:Update() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\EventSystem.cs:285)
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/sceneChanger.cs Line: 57)
+
+test
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+sceneChanger:switchScene(String) (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\sceneChanger.cs:58)
+UnityEngine.Events.InvokableCall`1:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:189)
+UnityEngine.Events.CachedInvokableCall`1:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:309)
+UnityEngine.Events.InvokableCallList:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:637)
+UnityEngine.Events.UnityEventBase:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:773)
+UnityEngine.Events.UnityEvent:Invoke() (at C:\buildslave\unity\build\Runtime\Export\UnityEvent_0.cs:52)
+UnityEngine.UI.Button:Press() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\UI\Core\Button.cs:36)
+UnityEngine.UI.Button:OnSubmit(BaseEventData) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\UI\Core\Button.cs:50)
+UnityEngine.EventSystems.ExecuteEvents:Execute(ISubmitHandler, BaseEventData) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\ExecuteEvents.cs:127)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\ExecuteEvents.cs:261)
+UnityEngine.EventSystems.StandaloneInputModule:SendSubmitEventToSelectedObject() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:351)
+UnityEngine.EventSystems.StandaloneInputModule:Process() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:207)
+UnityEngine.EventSystems.EventSystem:Update() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\EventSystem.cs:285)
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/sceneChanger.cs Line: 58)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.713793 ms
+Incamp
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+spawnFabs:Awake() (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\spawnFabs.cs:29)
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/spawnFabs.cs Line: 29)
+
+Assign p1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+spawnFabs:spawnP1() (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\spawnFabs.cs:144)
+spawnFabs:Awake() (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\spawnFabs.cs:35)
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/spawnFabs.cs Line: 144)
+
+System memory in use before: 109.8 MB.
+System memory in use after: 78.6 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 830.
+Total: 4.975094 ms (FindLiveObjects: 0.092839 ms CreateObjectMapping: 0.064847 ms MarkObjects: 1.049229 ms  DeleteObjects: 3.766777 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.808499 ms
+System memory in use before: 108.7 MB.
+System memory in use after: 69.2 MB.
+
+Unloading 80 unused Assets to reduce memory usage. Loaded Objects now: 686.
+Total: 9.404812 ms (FindLiveObjects: 0.049452 ms CreateObjectMapping: 0.039188 ms MarkObjects: 0.432474 ms  DeleteObjects: 8.882763 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.759513 ms
+System memory in use before: 71.5 MB.
+System memory in use after: 69.0 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 611.
+Total: 4.611665 ms (FindLiveObjects: 0.320040 ms CreateObjectMapping: 0.246795 ms MarkObjects: 2.823449 ms  DeleteObjects: 1.215315 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.031989 ms
+System memory in use before: 73.9 MB.
+System memory in use after: 71.4 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1019.
+Total: 4.124606 ms (FindLiveObjects: 0.495923 ms CreateObjectMapping: 0.165152 ms MarkObjects: 1.654787 ms  DeleteObjects: 1.786816 ms)
+
+Unlocked All Kits
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+KitSelection:Update() (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\KitSelection.cs:262)
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/KitSelection.cs Line: 262)
+
+Unlocked All Kits
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+KitSelection:Update() (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\KitSelection.cs:262)
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/KitSelection.cs Line: 262)
+
+Unlocked All Kits
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+KitSelection:Update() (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\KitSelection.cs:262)
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/KitSelection.cs Line: 262)
+
+Unlocked All Kits
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+KitSelection:Update() (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\KitSelection.cs:262)
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/KitSelection.cs Line: 262)
+
+Unlocked All Kits
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+KitSelection:Update() (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\KitSelection.cs:262)
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/KitSelection.cs Line: 262)
+
+Unlocked All Kits
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+KitSelection:Update() (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\KitSelection.cs:262)
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/KitSelection.cs Line: 262)
+
+Unlocked All Kits
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+KitSelection:Update() (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\KitSelection.cs:262)
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/KitSelection.cs Line: 262)
+
+Unlocked All Kits
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+KitSelection:Update() (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\KitSelection.cs:262)
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/KitSelection.cs Line: 262)
+
+Unlocked All Kits
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+KitSelection:Update() (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\KitSelection.cs:262)
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/KitSelection.cs Line: 262)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.911136 ms
+NoInCamp
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+spawnFabs:Awake() (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\spawnFabs.cs:33)
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/spawnFabs.cs Line: 33)
+
+Assign p1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+spawnFabs:spawnP1() (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\spawnFabs.cs:144)
+spawnFabs:Awake() (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\spawnFabs.cs:35)
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/spawnFabs.cs Line: 144)
+
+System memory in use before: 110.9 MB.
+System memory in use after: 79.7 MB.
+
+Unloading 83 unused Assets to reduce memory usage. Loaded Objects now: 851.
+Total: 3.986513 ms (FindLiveObjects: 0.057383 ms CreateObjectMapping: 0.042454 ms MarkObjects: 0.637282 ms  DeleteObjects: 3.248460 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.457911 ms
+NoInCamp
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+spawnFabs:Awake() (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\spawnFabs.cs:33)
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/spawnFabs.cs Line: 33)
+
+Assign p1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+spawnFabs:spawnP1() (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\spawnFabs.cs:144)
+spawnFabs:Awake() (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\spawnFabs.cs:35)
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/spawnFabs.cs Line: 144)
+
+System memory in use before: 79.5 MB.
+System memory in use after: 79.5 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 851.
+Total: 1.545619 ms (FindLiveObjects: 0.106369 ms CreateObjectMapping: 0.088641 ms MarkObjects: 1.322150 ms  DeleteObjects: 0.027058 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.516694 ms
+NoInCamp
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+spawnFabs:Awake() (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\spawnFabs.cs:33)
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/spawnFabs.cs Line: 33)
+
+Assign p1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+spawnFabs:spawnP1() (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\spawnFabs.cs:144)
+spawnFabs:Awake() (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\spawnFabs.cs:35)
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/spawnFabs.cs Line: 144)
+
+System memory in use before: 79.5 MB.
+System memory in use after: 79.5 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 851.
+Total: 1.014239 ms (FindLiveObjects: 0.099371 ms CreateObjectMapping: 0.055517 ms MarkObjects: 0.840223 ms  DeleteObjects: 0.017261 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.165862 ms
+System memory in use before: 99.0 MB.
+System memory in use after: 59.5 MB.
+
+Unloading 68 unused Assets to reduce memory usage. Loaded Objects now: 586.
+Total: 4.799678 ms (FindLiveObjects: 0.041054 ms CreateObjectMapping: 0.040588 ms MarkObjects: 0.500588 ms  DeleteObjects: 4.216047 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.439472 ms
+System memory in use before: 88.3 MB.
+System memory in use after: 71.2 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1048.
+Total: 2.467019 ms (FindLiveObjects: 0.101237 ms CreateObjectMapping: 0.061582 ms MarkObjects: 0.470263 ms  DeleteObjects: 1.832070 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.805700 ms
+NoInCamp
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+spawnFabs:Awake() (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\spawnFabs.cs:33)
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/spawnFabs.cs Line: 33)
+
+Assign p1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+spawnFabs:spawnP1() (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\spawnFabs.cs:144)
+spawnFabs:Awake() (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\spawnFabs.cs:35)
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/spawnFabs.cs Line: 144)
+
+System memory in use before: 110.9 MB.
+System memory in use after: 79.7 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 897.
+Total: 3.735985 ms (FindLiveObjects: 0.065314 ms CreateObjectMapping: 0.042454 ms MarkObjects: 0.659675 ms  DeleteObjects: 2.967608 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.655010 ms
+NoInCamp
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+spawnFabs:Awake() (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\spawnFabs.cs:33)
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/spawnFabs.cs Line: 33)
+
+Assign p1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+spawnFabs:spawnP1() (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\spawnFabs.cs:144)
+spawnFabs:Awake() (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\spawnFabs.cs:35)
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/spawnFabs.cs Line: 144)
+
+System memory in use before: 79.6 MB.
+System memory in use after: 79.6 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 897.
+Total: 0.857951 ms (FindLiveObjects: 0.064847 ms CreateObjectMapping: 0.039188 ms MarkObjects: 0.734320 ms  DeleteObjects: 0.018194 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.654077 ms
+NoInCamp
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+spawnFabs:Awake() (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\spawnFabs.cs:33)
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/spawnFabs.cs Line: 33)
+
+Assign p1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+spawnFabs:spawnP1() (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\spawnFabs.cs:144)
+spawnFabs:Awake() (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\spawnFabs.cs:35)
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/spawnFabs.cs Line: 144)
+
+System memory in use before: 79.6 MB.
+System memory in use after: 79.6 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 897.
+Total: 0.885943 ms (FindLiveObjects: 0.082109 ms CreateObjectMapping: 0.045253 ms MarkObjects: 0.743651 ms  DeleteObjects: 0.013529 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x00322] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:170 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 170)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x00322] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:170 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 170)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x00322] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:170 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 170)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x00322] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:170 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 170)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x00322] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:170 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 170)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x00322] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:170 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 170)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x00322] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:170 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 170)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x00322] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:170 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 170)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x00322] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:170 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 170)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Ships.Update () [0x00322] in C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\Ships.cs:170 
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/Ships.cs Line: 170)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.759980 ms
+System memory in use before: 99.1 MB.
+System memory in use after: 59.6 MB.
+
+Unloading 68 unused Assets to reduce memory usage. Loaded Objects now: 656.
+Total: 5.188765 ms (FindLiveObjects: 0.060649 ms CreateObjectMapping: 0.040588 ms MarkObjects: 0.595294 ms  DeleteObjects: 4.490834 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.455334 ms
+System memory in use before: 88.3 MB.
+System memory in use after: 71.3 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1115.
+Total: 2.556593 ms (FindLiveObjects: 0.072312 ms CreateObjectMapping: 0.042454 ms MarkObjects: 0.607890 ms  DeleteObjects: 1.832536 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.995578 ms
+NoInCamp
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+spawnFabs:Awake() (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\spawnFabs.cs:33)
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/spawnFabs.cs Line: 33)
+
+Assign p1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+spawnFabs:spawnP1() (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\spawnFabs.cs:144)
+spawnFabs:Awake() (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\spawnFabs.cs:35)
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/spawnFabs.cs Line: 144)
+
+System memory in use before: 111.0 MB.
+System memory in use after: 79.8 MB.
+
+Unloading 175 unused Assets to reduce memory usage. Loaded Objects now: 864.
+Total: 4.003775 ms (FindLiveObjects: 0.068580 ms CreateObjectMapping: 0.047119 ms MarkObjects: 0.735253 ms  DeleteObjects: 3.151888 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.582942 ms
+NoInCamp
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+spawnFabs:Awake() (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\spawnFabs.cs:33)
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/spawnFabs.cs Line: 33)
+
+Assign p1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+spawnFabs:spawnP1() (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\spawnFabs.cs:144)
+spawnFabs:Awake() (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\spawnFabs.cs:35)
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/spawnFabs.cs Line: 144)
+
+System memory in use before: 79.6 MB.
+System memory in use after: 79.6 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 864.
+Total: 1.792881 ms (FindLiveObjects: 0.164685 ms CreateObjectMapping: 0.102636 ms MarkObjects: 1.498033 ms  DeleteObjects: 0.026125 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.425720 ms
+NoInCamp
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+spawnFabs:Awake() (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\spawnFabs.cs:33)
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/spawnFabs.cs Line: 33)
+
+Assign p1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+spawnFabs:spawnP1() (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\spawnFabs.cs:144)
+spawnFabs:Awake() (at C:\Users\neon\Documents\GitHub\New Unity Project\Assets\Scripts\spawnFabs.cs:35)
+ 
+(Filename: C:/Users/neon/Documents/GitHub/New Unity Project/Assets/Scripts/spawnFabs.cs Line: 144)
+
+System memory in use before: 79.6 MB.
+System memory in use after: 79.6 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 864.
+Total: 1.699575 ms (FindLiveObjects: 0.109634 ms CreateObjectMapping: 0.091440 ms MarkObjects: 1.471907 ms  DeleteObjects: 0.024259 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.727322 ms
+System memory in use before: 110.6 MB.
+System memory in use after: 71.1 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 767.
+Total: 5.270875 ms (FindLiveObjects: 0.081176 ms CreateObjectMapping: 0.060182 ms MarkObjects: 0.561704 ms  DeleteObjects: 4.566412 ms)
+
